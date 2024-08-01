@@ -14,7 +14,7 @@ Ejercicio en consumo de API del mismo nombre con el fin de mostrar primitivament
 
 Para visualizar el resultado final de este proyecto, puedes descargar el repositorio e iniciarlo mediante `index.html` o acceder a él a través de `GitHub Pages` en el siguiente enlace:
 
-[https://kevinjgv.github.io/Work-Project_DOMI/](https://kevinjgv.github.io/TheMovieDB-API_Practice/)
+[https://kevinjgv.github.io/TheMovieDB-API_Practice/](https://kevinjgv.github.io/TheMovieDB-API_Practice/)
 
 ## Construido con 🛠️
 
